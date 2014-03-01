@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">messager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_messager">New Messsager</string>
+    <string name="resend_messager">Resend Messager</string>
+    <string name="delete_messager">Delete Messager</string>
+    <string name="details_messager">Delete Messager</string>
+    <string name="title_activity_get_list_sms">GetListSMS</string>
+    <string name="Inbox">Inbox</string>
+    <string name="Sendbox">Send Box</string>
+    <string name="Draft">Draft</string>
+
+</resources>
